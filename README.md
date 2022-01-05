@@ -27,6 +27,7 @@ Olá, eu sou o Wagner Sena!
 </div>
   
   
+  
    ![Snake animation](https://github.com/senawagner/senawagner/blob/output/github-contribution-grid-snake.svg)
 
 
