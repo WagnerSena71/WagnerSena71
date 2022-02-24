@@ -2,7 +2,7 @@ Olá, eu sou o Wagner Sena!
 
 - 🔭 Trabalhando com front-end e algumas soluções em TI.
 - 🌱 No momento estudando java, javascript, typescript, php, e outras tecnologias...
-- 👯 Em uma jornada fascinante com uma galera "crocante" no Certifield Tech Developer.
+- 👯 Em uma jornada fascinante sempre buscando novos desafios!
 - 😄 Pronouns: Eu sou eu, você é você, mas eu prefiro nós!...
 
 <div align="center">
